@@ -714,7 +714,7 @@
     </sourceConnections>
     <bounds
         x="889"
-        y="1236"
+        y="1249"
         width="120"
         height="55"/>
     <archimateElement
@@ -790,7 +790,7 @@
     </sourceConnections>
     <bounds
         x="960"
-        y="1152"
+        y="1178"
         width="121"
         height="58"/>
     <archimateElement
@@ -930,7 +930,7 @@
     </sourceConnections>
     <bounds
         x="434"
-        y="1131"
+        y="1116"
         width="95"
         height="49"/>
     <archimateElement
@@ -952,7 +952,7 @@
     </sourceConnections>
     <bounds
         x="600"
-        y="1068"
+        y="1087"
         width="109"
         height="55"/>
     <archimateElement
@@ -973,8 +973,8 @@
           href="RealizationRelationship_19a2166f-720c-405e-86a5-216d93e2fba5.xml#19a2166f-720c-405e-86a5-216d93e2fba5"/>
     </sourceConnections>
     <bounds
-        x="744"
-        y="1179"
+        x="733"
+        y="1182"
         width="120"
         height="55"/>
     <archimateElement
