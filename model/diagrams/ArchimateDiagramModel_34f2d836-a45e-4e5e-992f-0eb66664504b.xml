@@ -224,10 +224,10 @@
             href="FlowRelationship_616b18ce-8cfa-45b9-abb3-d1aba96071e4.xml#616b18ce-8cfa-45b9-abb3-d1aba96071e4"/>
       </sourceConnections>
       <bounds
-          x="252"
+          x="240"
           y="144"
-          width="108"
-          height="44"/>
+          width="120"
+          height="49"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_4311ecaa-7877-40fe-a243-2b60c6929839.xml#4311ecaa-7877-40fe-a243-2b60c6929839"/>
@@ -460,7 +460,7 @@
           href="RealizationRelationship_13ccc8db-198b-40ae-b76c-9e864915b3a4.xml#13ccc8db-198b-40ae-b76c-9e864915b3a4"/>
     </sourceConnections>
     <bounds
-        x="985"
+        x="1007"
         y="648"
         width="120"
         height="55"/>
@@ -581,9 +581,9 @@
           href="AccessRelationship_382871fa-c13a-4fe9-8c4f-4d6f3adfbdf4.xml#382871fa-c13a-4fe9-8c4f-4d6f3adfbdf4"/>
     </sourceConnections>
     <bounds
-        x="706"
+        x="756"
         y="648"
-        width="120"
+        width="109"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -751,7 +751,7 @@
           href="RealizationRelationship_a9bbb172-f545-4eae-91e7-b80f9279a252.xml#a9bbb172-f545-4eae-91e7-b80f9279a252"/>
     </sourceConnections>
     <bounds
-        x="851"
+        x="876"
         y="648"
         width="120"
         height="55"/>
