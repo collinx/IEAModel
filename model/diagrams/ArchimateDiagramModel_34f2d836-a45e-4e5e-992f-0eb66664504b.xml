@@ -778,6 +778,16 @@
         id="9e4154b1-ff5e-4091-973d-faf9811b3b26"
         source="9d5e63f6-f28d-48ab-817c-5d1b96ef9fd6"
         target="8a7a8fc8-b8d2-44af-a455-d43f764add7a">
+      <bendpoints
+          startX="-24"
+          startY="57"
+          endX="234"
+          endY="456"/>
+      <bendpoints
+          startX="-252"
+          startY="57"
+          endX="6"
+          endY="456"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_159a1887-845f-4b10-8d34-95705fe4029e.xml#159a1887-845f-4b10-8d34-95705fe4029e"/>
