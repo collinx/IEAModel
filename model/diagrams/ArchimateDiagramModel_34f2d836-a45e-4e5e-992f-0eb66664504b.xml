@@ -460,7 +460,7 @@
           href="RealizationRelationship_13ccc8db-198b-40ae-b76c-9e864915b3a4.xml#13ccc8db-198b-40ae-b76c-9e864915b3a4"/>
     </sourceConnections>
     <bounds
-        x="985"
+        x="1007"
         y="648"
         width="120"
         height="55"/>
@@ -581,9 +581,9 @@
           href="AccessRelationship_382871fa-c13a-4fe9-8c4f-4d6f3adfbdf4.xml#382871fa-c13a-4fe9-8c4f-4d6f3adfbdf4"/>
     </sourceConnections>
     <bounds
-        x="706"
+        x="756"
         y="648"
-        width="120"
+        width="109"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -751,7 +751,7 @@
           href="RealizationRelationship_a9bbb172-f545-4eae-91e7-b80f9279a252.xml#a9bbb172-f545-4eae-91e7-b80f9279a252"/>
     </sourceConnections>
     <bounds
-        x="851"
+        x="876"
         y="648"
         width="120"
         height="55"/>
