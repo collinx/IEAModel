@@ -16,8 +16,8 @@
           href="AssignmentRelationship_9e6fac86-9deb-4520-90c6-b8b1a0816948.xml#9e6fac86-9deb-4520-90c6-b8b1a0816948"/>
     </sourceConnections>
     <bounds
-        x="516"
-        y="34"
+        x="311"
+        y="109"
         width="97"
         height="49"/>
     <archimateElement
@@ -29,8 +29,8 @@
       id="e79be66a-d1c1-4c02-b2ab-6c7736644934"
       targetConnections="4bf46ee8-48ba-49b7-9290-799de613061d bba6da4c-a6a2-4088-81db-37fbd231387c">
     <bounds
-        x="533"
-        y="111"
+        x="492"
+        y="108"
         width="85"
         height="52"/>
     <archimateElement
