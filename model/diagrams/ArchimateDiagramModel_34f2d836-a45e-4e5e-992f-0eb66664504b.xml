@@ -224,9 +224,9 @@
       </sourceConnections>
       <bounds
           x="98"
-          y="154"
-          width="108"
-          height="44"/>
+          y="156"
+          width="119"
+          height="49"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_4311ecaa-7877-40fe-a243-2b60c6929839.xml#4311ecaa-7877-40fe-a243-2b60c6929839"/>
