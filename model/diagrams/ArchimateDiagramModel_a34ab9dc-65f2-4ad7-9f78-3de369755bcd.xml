@@ -475,8 +475,8 @@
       id="d55c96ae-0c81-47e1-9313-e1c471f3d063"
       targetConnections="180a49e1-6959-4a56-835f-a4d996c4c8fa">
     <bounds
-        x="648"
-        y="504"
+        x="889"
+        y="480"
         width="120"
         height="55"/>
     <archimateElement
@@ -495,5 +495,17 @@
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_a8ef4991-ce3e-4f8e-9fef-015c72bb5002.xml#a8ef4991-ce3e-4f8e-9fef-015c72bb5002"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8e4888fa-c7df-40cd-9893-288f6cefa46a">
+    <bounds
+        x="197"
+        y="493"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_8139efad-efa2-4c74-b050-a3cd6d0e8652.xml#8139efad-efa2-4c74-b050-a3cd6d0e8652"/>
   </children>
 </archimate:ArchimateDiagramModel>
