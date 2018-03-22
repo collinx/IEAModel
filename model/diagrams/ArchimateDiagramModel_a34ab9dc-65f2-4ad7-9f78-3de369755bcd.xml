@@ -55,8 +55,8 @@
           href="TriggeringRelationship_a0853e80-a240-46c8-887e-455646b6910d.xml#a0853e80-a240-46c8-887e-455646b6910d"/>
     </sourceConnections>
     <bounds
-        x="132"
-        y="420"
+        x="120"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
@@ -222,7 +222,7 @@
     </sourceConnections>
     <bounds
         x="276"
-        y="336"
+        y="288"
         width="733"
         height="157"/>
     <children
@@ -335,8 +335,8 @@
       id="2693136d-65d3-4e58-b5ed-c768510aa8a5"
       targetConnections="cc9dd299-76d2-4b81-9f2d-56eddd29e05a c8b00494-4ef5-4132-bb2f-c973535b4fda">
     <bounds
-        x="264"
-        y="216"
+        x="276"
+        y="192"
         width="120"
         height="55"/>
     <archimateElement
@@ -358,7 +358,7 @@
     </sourceConnections>
     <bounds
         x="516"
-        y="216"
+        y="192"
         width="120"
         height="55"/>
     <archimateElement
@@ -454,7 +454,7 @@
     </sourceConnections>
     <bounds
         x="816"
-        y="216"
+        y="192"
         width="120"
         height="55"/>
     <archimateElement
@@ -467,7 +467,7 @@
       targetConnections="180a49e1-6959-4a56-835f-a4d996c4c8fa">
     <bounds
         x="583"
-        y="528"
+        y="504"
         width="120"
         height="55"/>
     <archimateElement
