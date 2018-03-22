@@ -73,15 +73,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="253629d7-6262-4fab-902f-44416af4408d"
-        source="7daf0ae3-69b7-4a5f-84f3-02861d59d034"
-        target="d822b701-ceab-441c-abb0-704838bd893b">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_1438831e-84ac-478d-bec9-957348d335f3.xml#1438831e-84ac-478d-bec9-957348d335f3"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="49734e2e-956b-4941-b7ec-f45a746fb7d9"
         source="7daf0ae3-69b7-4a5f-84f3-02861d59d034"
         target="73738958-1397-4654-91af-f2f044a91610">
@@ -151,15 +142,6 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_1926a882-942f-4a72-872b-ae7b88422258.xml#1926a882-942f-4a72-872b-ae7b88422258"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="ad38734b-f709-4f18-bc8e-5682e2cb17d6"
-        source="7daf0ae3-69b7-4a5f-84f3-02861d59d034"
-        target="994cdcd0-616c-4c22-aa65-f8dea0ccfa8d">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_a9e3eb68-cd7f-4bbb-848a-a910beb17ca7.xml#a9e3eb68-cd7f-4bbb-848a-a910beb17ca7"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -315,7 +297,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="d822b701-ceab-441c-abb0-704838bd893b"
-        targetConnections="253629d7-6262-4fab-902f-44416af4408d 5508d00a-ef39-40fc-97cb-17a1ee3ec3dc">
+        targetConnections="5508d00a-ef39-40fc-97cb-17a1ee3ec3dc">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="0f4897fa-d10a-40ac-9abd-d6cedd336082"
@@ -480,7 +462,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="994cdcd0-616c-4c22-aa65-f8dea0ccfa8d"
-        targetConnections="ad38734b-f709-4f18-bc8e-5682e2cb17d6 1f6480f1-2c73-42e1-8572-80bfd16443c5 28016e97-143e-4715-a108-6ee2bc25d046 c049afdc-4d57-4002-98c3-33c47701c4a9">
+        targetConnections="1f6480f1-2c73-42e1-8572-80bfd16443c5 28016e97-143e-4715-a108-6ee2bc25d046 c049afdc-4d57-4002-98c3-33c47701c4a9">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="50735125-d152-4c46-92dc-14c58c456399"
