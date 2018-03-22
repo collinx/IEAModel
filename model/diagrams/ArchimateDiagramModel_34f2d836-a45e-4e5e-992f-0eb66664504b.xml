@@ -224,10 +224,10 @@
             href="FlowRelationship_616b18ce-8cfa-45b9-abb3-d1aba96071e4.xml#616b18ce-8cfa-45b9-abb3-d1aba96071e4"/>
       </sourceConnections>
       <bounds
-          x="252"
+          x="240"
           y="144"
-          width="108"
-          height="44"/>
+          width="120"
+          height="49"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_4311ecaa-7877-40fe-a243-2b60c6929839.xml#4311ecaa-7877-40fe-a243-2b60c6929839"/>
